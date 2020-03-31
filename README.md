@@ -1,3 +1,17 @@
-# run-buddy
+# Run Buddy
 
-Run buddy css project from UT Bootcamp
+## Purpose
+
+A website that offers fitness training services.
+
+## Built With
+
+* HTML
+* CSS
+
+## Website
+
+https://bradleypaul.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by __Paul Bradley__
