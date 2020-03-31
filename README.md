@@ -11,7 +11,8 @@ A website that offers fitness training services.
 
 ## Website
 
-https://bradleypaul.github.io/run-buddy/
+<https://bradleypaul.github.io/run-buddy/>
 
 ## Contribution
+
 Made with ❤️ by __Paul Bradley__
