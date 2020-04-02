@@ -2,7 +2,7 @@
 
 ## Purpose
 
-A website that offers fitness training services.
+A practice website for advanced css such as rounding corners, transitions, and flexbox
 
 ## Built With
 
